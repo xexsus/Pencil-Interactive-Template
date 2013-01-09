@@ -1,4 +1,4 @@
 Pencil-Interactive-Template
 ===========================
 
-Export HTML Template for Pencil (http://pencil.evolus.vn/)
+Export HTML Template for Pencil (http://pencil.evolus.vn/).
