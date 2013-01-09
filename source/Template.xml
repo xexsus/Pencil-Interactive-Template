@@ -1,0 +1,8 @@
+<Template xmlns="http://www.evolus.vn/Namespace/Pencil">
+    <Property name="id">Evolus:HTML:Interactive</Property>
+    <Property name="name">Interactive</Property>
+    <Property name="author">xexsus</Property>
+    <Property name="description">Interactive prototype</Property>
+    
+    <Property name="styleSheet">StyleSheet.xslt</Property>
+</Template>
